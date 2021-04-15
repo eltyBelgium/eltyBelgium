@@ -1,4 +1,22 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Homeforce, RLN Tyas!
+
+![TwitterFollow](https://img.shields.io/twitter/follow/TyasL_?style=social) 
+![GithubFollow](https://img.shields.io/github/followers/homeforce?style=social) 
+
+
+
+So who the hell is this guy? Simply I am Tyas Lambrechts, a fullstack developer from Belgium, Antwerp.
+Working als developer from 2017, and since 18/06/2020 full time dad from a pretty daughter.
+
+Mostly working as consultant, but like most devs we also have side projects.
+
+---
+
+🧰 Toolbox
+
+<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="angular Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp Logo" width="50" height="50"/><img class="larger" src="https://cdn.worldvectorlogo.com/logos/ngrx.svg"  width="50" height="50" alt="Ngrx logo vector"> <img class="larger" src="https://cdn.worldvectorlogo.com/logos/mongodb.svg"  width="50" height="50" alt="MongoDb logo vector"> 
+
+
 
 <!--
 **homeforce/homeforce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
