@@ -9,6 +9,11 @@ So who the hell is this guy? Simply I am Tyas Lambrechts, a fullstack developer 
 Working als developer from 2017, and since 18/06/2020 full time dad from a pretty daughter.
 
 Mostly working as consultant, but like most devs we also have side projects.
+I started my own side hustle in 2020.
+This under the name Elty
+
+ [ <img src="https://elty.be/wp-content/uploads/2020/11/Elty_Small.png" alt="JavaScript Logo" width="150" height="75"/>](https://elty.be/)
+
 
 ---
 
