@@ -23,7 +23,7 @@ Mostly working as consultant, but like most devs we also have side projects.
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-▶ [...more blog articles](https://elty.be)
+▶ [...more blog articles](https://elty.be/blog/)
 
 ## &#x1f4c8; My GitHub Stats
 
