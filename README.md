@@ -21,6 +21,7 @@ Mostly working as consultant, but like most devs we also have side projects.
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Here is where i start](https://elty.be/here-is-where-i-start/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://elty.be/blog/)
