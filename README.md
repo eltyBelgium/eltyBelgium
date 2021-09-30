@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Homeforce, RLN Tyas!
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Elty, RLN Tyas!
 
 ![TwitterFollow](https://img.shields.io/twitter/follow/TyasL_?style=social) 
 ![GithubFollow](https://img.shields.io/github/followers/homeforce?style=social) 
