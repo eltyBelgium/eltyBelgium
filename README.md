@@ -33,13 +33,13 @@ This under the name Elty
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=homeforce&hide=html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eltyBelgium&hide=html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=homeforce&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=eltyBelgium&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
-**homeforce/homeforce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**eltyBelgium/eltyBelgium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
