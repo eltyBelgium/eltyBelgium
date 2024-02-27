@@ -1,7 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Elty, RLN Tyas!
 
 ![TwitterFollow](https://img.shields.io/twitter/follow/TyasL_?style=social) 
-![GithubFollow](https://img.shields.io/github/followers/homeforce?style=social) 
+![GithubFollow](https://img.shields.io/github/followers/eltyBelgium?style=social) 
 
 
 
@@ -12,7 +12,7 @@ Mostly working as consultant, but like most devs we also have side projects.
 I started my own side hustle in 2020.
 This under the name Elty
 
- [ <img src="https://elty.be/wp-content/uploads/2020/11/Elty_Small.png" alt="JavaScript Logo" width="150" height="75"/>](https://elty.be/)
+ [ <img src="[https://elty.be/wp-content/uploads/2020/11/Elty_Small.png](https://elty.be/wp-content/uploads/2023/12/Elty_medium.png)" alt="Elty logo" width="150" height="75"/>](https://elty.be/)
 
 
 ---
