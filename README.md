@@ -32,11 +32,12 @@ This under the name Elty
 ▶ [...more blog articles](https://elty.be/blog/)
 
 ## &#x1f4c8; My GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eltyBelgium&hide=html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=eltyBelgium&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=eltyBelgium" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eltyBelgium&layout=compact&langs_count=8&card_width=300" />
+</a>
 
 <!--
 **eltyBelgium/eltyBelgium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
