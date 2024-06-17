@@ -6,10 +6,10 @@
 
 
 So who the hell is this guy? Simply I am Tyas Lambrechts, a fullstack developer from Belgium, Antwerp.
-Working als developer from 2017, and since 18/06/2020 full time dad from a pretty daughter.
+Working als developer from 2017, and full time dad of 2 pretty daughters.
 
 Mostly working as consultant, but like most devs we also have side projects.
-I started my own side hustle in 2020.
+I started my own company in 2020.
 This under the name Elty
 
  [ <img src="https://elty.be/wp-content/uploads/2023/12/Elty_medium.png" alt="Elty logo" width="150" height="75"/>](https://elty.be/)
