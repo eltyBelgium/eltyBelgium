@@ -26,10 +26,10 @@ This under the name Elty
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Here is where i start](https://elty.be/here-is-where-i-start/)
+- [From welder to Full stack dev](https://elty.be/en/van-lasser-tot-full-stack-developer-en-ondernemer-mijn-intro-elty/)
 <!-- BLOG-POST-LIST:END -->
 
-▶ [...more blog articles](https://elty.be/blog/)
+▶ [...more blog articles](https://elty.be/en/blog/)
 
 ## &#x1f4c8; My GitHub Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
